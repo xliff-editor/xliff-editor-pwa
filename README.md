@@ -1,2 +1,2 @@
 # xliff-editor-pwa
-Free Online XLIFF editor with GitHub integration
+https://xliffeditor.app - free online XLIFF editor with GitHub integration
